@@ -1,7 +1,7 @@
 
 # Task Tracker
 
-*Build a CLI app to track your tasks and manage your to-do list.*
+#### *Build a CLI app to track your tasks and manage your to-do list.*
 
 
 This plan focuses on breaking down the project into manageable steps, encouraging learning along the way, without giving you the specific code.
